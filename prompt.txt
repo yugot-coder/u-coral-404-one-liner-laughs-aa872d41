@@ -1,0 +1,6 @@
+One-Liner Laughs (make.fun competition u-coral-404-one-liner-laughs-aa872d41):
+write ONE funny line, a single one-liner joke of at most 200 characters.
+The program writes the line to /output/entry.txt. An AI judge compares jokes
+two at a time on whether the line is a real one-line joke, how funny it is,
+the surprise of its turn, its freshness, and its economy of wording.
+Build the funniest, freshest single line you can and submit it.
